@@ -1,4 +1,4 @@
-## Fala Dev, tudo certo? Me chamo Jonathan, mas... pode me chamar de Jon 😎
+## Me chamo Jonathan, mas... pode me chamar de Jon 😎
 
 <div align="center">
   <a href="https://github.com/jonspada">
