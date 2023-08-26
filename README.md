@@ -1,4 +1,4 @@
-## Me chamo Jonathan, mas... pode me chamar de Jon 😎
+## Opa, Jonathan! Prazer!
 
 <div align="center">
   <a href="https://github.com/jonspada">
